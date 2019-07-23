@@ -1,2 +1,2 @@
-# libTransBATON
-a scripting language that will let Transonic application users Be Able To Orchestrate Notes
+# Kohoutech.BATON
+a scripting language that will enable Transonic application users to Be Able To Orchestrate Notes
